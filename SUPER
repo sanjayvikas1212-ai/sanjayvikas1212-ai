@@ -1,0 +1,509 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]   # runs daily at midnight
+  workflow_dispatch:                 # allows manual run from the Actions tab
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest<svg viewBox="0 0 1080 480" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <defs><svg viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <defs>
+    <linearGradient id="bgFloat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#04060a"/>
+    </linearGradient><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=header&text=SANJAYVIKAS.R&fontSize=55&fontColor=00FF41&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Building%20in%20the%20terminal&descAlignY=62&descSize=18&descColor=8be89e" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=90&lines=root%40sanjayvikas%3A~%23+whoami;%3E+B.Tech+AI+%26+DS+%40+Sri+Eshwar+College;%3E+Access+Granted+%E2%9C%93+Building+intelligent+systems" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+```
+ ██████╗██╗ ██████╗██╗  ██╗ █████╗ ██╗
+██╔════╝██║██╔════╝██║  ██║██╔══██╗██║
+╚█████╗ ██║██║     ███████║╚█████╔╝██║
+ ╚═══██╗██║██║     ██╔══██║██╔══██╗╚═╝
+██████╔╝██║╚██████╗██║  ██║╚█████╔╝██╗
+╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚════╝ ╚═╝
+```
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ROLE-FULL_STACK_DEVELOPER-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&logo=protonvpn&logoColor=black&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <a href="mailto:sanjayvikas.r2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-sanjayvikas.r2024aids%40sece.ac.in-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/GITHUB-terminal--linked-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjayvikas&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=0d1117" />
+</p>
+
+---
+
+<h3>&gt; cat about_me.txt</h3>
+
+```yaml
+Name:        sanjayvikas R
+Degree:      B.Tech - Artificial Intelligence & Data Science
+Institute:   Sri Eshwar College of Engineering
+Duration:    2024 - 2028
+CGPA:        7.42
+Compiling:   knowledge.exe [no errors found]
+```
+
+---
+
+<h3>&gt; ./run_education.sh</h3>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [2024 - 2028]  B.Tech AI & DS                                   │
+│                 Sri Eshwar College of Engineering | CGPA: 7.42   │
+├─────────────────────────────────────────────────────────────────┤
+│  [2023 - 2024]  HSC                                              │
+│                 G.K.D Matric Higher Secondary School | 66%       │
+├─────────────────────────────────────────────────────────────────┤
+│  [2021 - 2022]  SSLC                                             │
+│                 Vivekam Matric Higher Secondary School | 82%     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<h3 align="center">&gt; render --tech-stack --mode=3D</h3>
+
+<p align="center">
+  <img src="techstack.svg" width="100%" alt="3D Tech Stack"/>
+</p>
+
+<h3 align="center">&gt; ./stack.sh --split=frontend,backend --mode=float</h3>
+
+<p align="center">
+  <img src="floating_stack.svg" width="100%" alt="Floating 3D Frontend and Backend Icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00FF41?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-00FF41?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-00FF41?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00FF41?style=for-the-badge&logo=mysql&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-00FF41?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-00FF41?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-00FF41?style=for-the-badge&logo=numpy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-00FF41?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-00FF41?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-00FF41?style=for-the-badge&logo=jupyter&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-00FF41?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-00FF41?style=for-the-badge&logo=flutter&logoColor=black" />
+  <img src="https://img.shields.io/badge/Canva-00FF41?style=for-the-badge&logo=canva&logoColor=black" />
+</p>
+
+```diff
++ CORE CONCEPTS DETECTED   : [ DSA ]  [ OOPS ]
++ DATA VISUALIZATION       : [ Matplotlib ]  [ Power BI ]
+```
+
+---
+
+<h3>&gt; ./fetch_live_metrics.sh</h3>
+
+<p align="center">
+  <img src="github-metrics.svg" width="100%" alt="Live GitHub Metrics"/>
+</p>
+
+<p align="center">
+  <img src="metrics.isocalendar.svg" width="100%" alt="Isometric 3D Commit Calendar"/>
+</p>
+
+<p align="center"><sub>⚙️ powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — auto-refreshes daily via GitHub Actions</sub></p>
+
+---
+
+<h3>&gt; ls -la /projects</h3>
+
+```
+drwxr-xr-x  agropro-chatbot/        2025
+drwxr-xr-x  hemolink-app/           2025
+drwxr-xr-x  quizmaster-c/           2024
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 `AgroPro` — Agricultural Chatbot
+`2025`
+
+AI-powered chatbot assisting farmers with real-time
+guidance on crop selection, pest control, weather
+updates, and modern farming techniques. Ships
+multilingual support and personalized suggestions.
+
+`STATUS: DEPLOYED ✔`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩸 `HemoLink` — Blood Donation App
+`2025`
+
+Connects blood donors with recipients in real time
+via location-based matching and instant emergency
+notifications for timely assistance.
+
+`STATUS: DEPLOYED ✔`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 `QuizMaster C` — Console Quiz Game
+`2024`
+
+Console-based quiz game built in C, featuring score
+tracking, instant feedback, and a clean user-friendly
+interface across multiple-choice rounds.
+
+`STATUS: DEPLOYED ✔`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 `EMBEDATHON 25'`
+`Achievement`
+
+Finalist shortlisted for Project Presentation —
+cleared the preliminary firewall of the competition.
+
+`STATUS: ACCESS_LEVEL_UP ⚡`
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>&gt; cat certifications.log</h3>
+
+```
+[✔] C Programming                                     — Sololearn
+[✔] Data Visualization in Power BI                     — Great Learning
+[✔] Mastering Data Structures using C and C++          — Code Galata
+[✔] Introduction to Data Science and Machine Learning  — Code Galata
+```
+
+---
+
+<h3 align="center">&gt; ./connect.sh</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CONNECTION-ESTABLISHED-00FF41?style=for-the-badge&logo=protonvpn&logoColor=black" />
+</p>
+
+<div align="center">
+
+```
+> Reach me at sanjayvikas.r2024aids@sece.ac.in
+> Session terminated. Have a nice day, user. [EOF]
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=100&section=footer" width="100%"/>
+
+
+    <!-- Frontend orb (cyan glass sphere) -->
+    <radialGradient id="feOrb" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#e0ffff"/>
+      <stop offset="35%" stop-color="#4be3f0"/>
+      <stop offset="75%" stop-color="#00b8c9"/>
+      <stop offset="100%" stop-color="#005f68"/>
+    </radialGradient>
+
+    <!-- Backend orb (green glass sphere) -->
+    <radialGradient id="beOrb" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#e6ffe9"/>
+      <stop offset="35%" stop-color="#4dff7a"/>
+      <stop offset="75%" stop-color="#00c93f"/>
+      <stop offset="100%" stop-color="#054d16"/>
+    </radialGradient>
+
+    <radialGradient id="shadowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="420" fill="url(#bgFloat)"/>
+
+  <!-- faint scanline grid -->
+  <g stroke="#00FF41" stroke-opacity="0.06">
+    <line x1="0" y1="40" x2="1000" y2="40"/>
+    <line x1="0" y1="90" x2="1000" y2="90"/>
+    <line x1="0" y1="140" x2="1000" y2="140"/>
+    <line x1="0" y1="190" x2="1000" y2="190"/>
+    <line x1="0" y1="240" x2="1000" y2="240"/>
+    <line x1="0" y1="290" x2="1000" y2="290"/>
+    <line x1="0" y1="340" x2="1000" y2="340"/>
+    <line x1="0" y1="390" x2="1000" y2="390"/>
+  </g>
+
+  <!-- Titles -->
+  <text x="500" y="42" text-anchor="middle" font-size="22" font-weight="bold" fill="#00FF41">&gt;_ FULL_STACK.render(frontend, backend)</text>
+  <text x="240" y="75" text-anchor="middle" font-size="15" font-weight="bold" fill="#4be3f0" letter-spacing="3">FRONTEND</text>
+  <text x="760" y="75" text-anchor="middle" font-size="15" font-weight="bold" fill="#4dff7a" letter-spacing="3">BACKEND</text>
+
+  <!-- connecting pulse line -->
+  <line x1="360" y1="230" x2="640" y2="230" stroke="#00FF41" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" values="0;-32" dur="1.2s" repeatCount="indefinite"/>
+  </line>
+  <text x="500" y="222" text-anchor="middle" font-size="20" fill="#00FF41">⇄</text>
+
+  <!-- ============= FRONTEND ORBS ============= -->
+
+  <!-- HTML -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0" dur="3.2s" repeatCount="indefinite"/>
+    <ellipse cx="150" cy="170" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="150" cy="140" r="42" fill="url(#feOrb)"/>
+    <text x="150" y="146" text-anchor="middle" font-size="14" font-weight="bold" fill="#02323a">HTML5</text>
+  </g>
+
+  <!-- CSS -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-18; 0,0" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    <ellipse cx="290" cy="230" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="290" cy="200" r="42" fill="url(#feOrb)"/>
+    <text x="290" y="206" text-anchor="middle" font-size="15" font-weight="bold" fill="#02323a">CSS3</text>
+  </g>
+
+  <!-- JS -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-12; 0,0" dur="3.6s" begin="0.8s" repeatCount="indefinite"/>
+    <ellipse cx="150" cy="320" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="150" cy="290" r="42" fill="url(#feOrb)"/>
+    <text x="150" y="296" text-anchor="middle" font-size="16" font-weight="bold" fill="#02323a">JS</text>
+  </g>
+
+  <!-- REACT -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-16; 0,0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    <ellipse cx="300" cy="120" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="300" cy="90" r="42" fill="url(#feOrb)"/>
+    <text x="300" y="96" text-anchor="middle" font-size="13" font-weight="bold" fill="#02323a">REACT</text>
+  </g>
+
+  <!-- ============= BACKEND ORBS ============= -->
+
+  <!-- NODE -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-15; 0,0" dur="3.4s" begin="0.2s" repeatCount="indefinite"/>
+    <ellipse cx="850" cy="170" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="850" cy="140" r="42" fill="url(#beOrb)"/>
+    <text x="850" y="146" text-anchor="middle" font-size="13" font-weight="bold" fill="#053015">NODE</text>
+  </g>
+
+  <!-- EXPRESS -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-13; 0,0" dur="2.8s" begin="0.6s" repeatCount="indefinite"/>
+    <ellipse cx="710" cy="230" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="710" cy="200" r="42" fill="url(#beOrb)"/>
+    <text x="710" y="204" text-anchor="middle" font-size="11" font-weight="bold" fill="#053015">EXPRESS</text>
+  </g>
+
+  <!-- MONGODB -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-17; 0,0" dur="3.1s" begin="1.0s" repeatCount="indefinite"/>
+    <ellipse cx="850" cy="320" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="850" cy="290" r="42" fill="url(#beOrb)"/>
+    <text x="850" y="294" text-anchor="middle" font-size="11" font-weight="bold" fill="#053015">MONGO</text>
+  </g>
+
+  <!-- SQL -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-11; 0,0" dur="3.7s" begin="1.4s" repeatCount="indefinite"/>
+    <ellipse cx="700" cy="120" rx="34" ry="9" fill="url(#shadowGrad)"/>
+    <circle cx="700" cy="90" r="42" fill="url(#beOrb)"/>
+    <text x="700" y="96" text-anchor="middle" font-size="14" font-weight="bold" fill="#053015">SQL</text>
+  </g>
+
+  <text x="500" y="405" text-anchor="middle" font-size="11" fill="#5fd67a" opacity="0.7">[ orbs float in real time — client + server, always in sync ]</text>
+</svg>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </linearGradient>
+
+    <!-- Green cube faces -->
+    <linearGradient id="gTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8CFFA0"/>
+      <stop offset="100%" stop-color="#00FF41"/>
+    </linearGradient>
+    <linearGradient id="gLeft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A7A2A"/>
+      <stop offset="100%" stop-color="#03400F"/>
+    </linearGradient>
+    <linearGradient id="gRight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12B347"/>
+      <stop offset="100%" stop-color="#066B22"/>
+    </linearGradient>
+
+    <!-- Cyan cube faces -->
+    <linearGradient id="cTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B0FFFF"/>
+      <stop offset="100%" stop-color="#00F6FF"/>
+    </linearGradient>
+    <linearGradient id="cLeft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#067A82"/>
+      <stop offset="100%" stop-color="#023B40"/>
+    </linearGradient>
+    <linearGradient id="cRight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0FC3D1"/>
+      <stop offset="100%" stop-color="#0A7580"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1080" height="480" fill="url(#bg)"/>
+
+  <!-- faint grid dots background -->
+  <g fill="#00FF41" opacity="0.10">
+    <circle cx="40" cy="40" r="1.6"/><circle cx="90" cy="40" r="1.6"/><circle cx="140" cy="40" r="1.6"/>
+    <circle cx="190" cy="40" r="1.6"/><circle cx="240" cy="40" r="1.6"/><circle cx="290" cy="40" r="1.6"/>
+    <circle cx="340" cy="40" r="1.6"/><circle cx="390" cy="40" r="1.6"/><circle cx="440" cy="40" r="1.6"/>
+    <circle cx="490" cy="40" r="1.6"/><circle cx="540" cy="40" r="1.6"/><circle cx="590" cy="40" r="1.6"/>
+    <circle cx="640" cy="40" r="1.6"/><circle cx="690" cy="40" r="1.6"/><circle cx="740" cy="40" r="1.6"/>
+    <circle cx="790" cy="40" r="1.6"/><circle cx="840" cy="40" r="1.6"/><circle cx="890" cy="40" r="1.6"/>
+    <circle cx="940" cy="40" r="1.6"/><circle cx="990" cy="40" r="1.6"/><circle cx="1040" cy="40" r="1.6"/>
+  </g>
+
+  <!-- title with faux glow (stacked offset text) -->
+  <text x="540" y="55" text-anchor="middle" font-size="26" font-weight="bold" fill="#00FF41" opacity="0.25">&gt;_ TECH_STACK.exe</text>
+  <text x="540" y="53" text-anchor="middle" font-size="26" font-weight="bold" fill="#7CFFB2">&gt;_ TECH_STACK.exe</text>
+  <text x="540" y="52" text-anchor="middle" font-size="26" font-weight="bold" fill="#00FF41">&gt;_ TECH_STACK.exe</text>
+  <text x="540" y="78" text-anchor="middle" font-size="13" fill="#5fd67a" opacity="0.8">[ compiling proficiency levels ... climb the stack ]</text>
+
+  <!-- baseline -->
+  <line x1="20" y1="430" x2="1060" y2="430" stroke="#00FF41" stroke-opacity="0.25" stroke-width="1.5" stroke-dasharray="6 6"/>
+
+  <!-- ================= CUBE 1 : C (green) cx=110 cy=380 ================= -->
+  <ellipse cx="110" cy="410" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="110,325 157.85,352.5 110,380 62.15,352.5" fill="url(#gTop)"/>
+  <polygon points="62.15,352.5 110,380 110,435 62.15,407.5" fill="url(#gLeft)"/>
+  <polygon points="110,380 157.85,352.5 157.85,407.5 110,435" fill="url(#gRight)"/>
+  <text x="110" y="358" text-anchor="middle" font-size="15" font-weight="bold" fill="#052b0d">C</text>
+  <text x="110" y="460" text-anchor="middle" font-size="11" fill="#8be89e">Lv.1 Core</text>
+
+  <!-- ================= CUBE 2 : C++ (cyan) cx=230 cy=340 ================= -->
+  <ellipse cx="230" cy="370" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="230,285 277.85,312.5 230,340 182.15,312.5" fill="url(#cTop)"/>
+  <polygon points="182.15,312.5 230,340 230,395 182.15,367.5" fill="url(#cLeft)"/>
+  <polygon points="230,340 277.85,312.5 277.85,367.5 230,395" fill="url(#cRight)"/>
+  <text x="230" y="318" text-anchor="middle" font-size="14" font-weight="bold" fill="#012b2e">C++</text>
+  <text x="230" y="420" text-anchor="middle" font-size="11" fill="#8be89e">Lv.2 OOP</text>
+
+  <!-- ================= CUBE 3 : PYTHON (green) cx=350 cy=300 ================= -->
+  <ellipse cx="350" cy="330" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="350,245 397.85,272.5 350,300 302.15,272.5" fill="url(#gTop)"/>
+  <polygon points="302.15,272.5 350,300 350,355 302.15,327.5" fill="url(#gLeft)"/>
+  <polygon points="350,300 397.85,272.5 397.85,327.5 350,355" fill="url(#gRight)"/>
+  <text x="350" y="278" text-anchor="middle" font-size="13" font-weight="bold" fill="#052b0d">PY</text>
+  <text x="350" y="380" text-anchor="middle" font-size="11" fill="#8be89e">Lv.3 Data</text>
+
+  <!-- ================= CUBE 4 : SQL (cyan) cx=470 cy=260 ================= -->
+  <ellipse cx="470" cy="290" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="470,205 517.85,232.5 470,260 422.15,232.5" fill="url(#cTop)"/>
+  <polygon points="422.15,232.5 470,260 470,315 422.15,287.5" fill="url(#cLeft)"/>
+  <polygon points="470,260 517.85,232.5 517.85,287.5 470,315" fill="url(#cRight)"/>
+  <text x="470" y="238" text-anchor="middle" font-size="13" font-weight="bold" fill="#012b2e">SQL</text>
+  <text x="470" y="340" text-anchor="middle" font-size="11" fill="#8be89e">Lv.4 DB</text>
+
+  <!-- ================= CUBE 5 : PANDAS (green) cx=590 cy=220 ================= -->
+  <ellipse cx="590" cy="250" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="590,165 637.85,192.5 590,220 542.15,192.5" fill="url(#gTop)"/>
+  <polygon points="542.15,192.5 590,220 590,275 542.15,247.5" fill="url(#gLeft)"/>
+  <polygon points="590,220 637.85,192.5 637.85,247.5 590,275" fill="url(#gRight)"/>
+  <text x="590" y="198" text-anchor="middle" font-size="13" font-weight="bold" fill="#052b0d">PD</text>
+  <text x="590" y="300" text-anchor="middle" font-size="11" fill="#8be89e">Lv.5 Analyze</text>
+
+  <!-- ================= CUBE 6 : WEB (cyan) cx=710 cy=180 ================= -->
+  <ellipse cx="710" cy="210" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="710,125 757.85,152.5 710,180 662.15,152.5" fill="url(#cTop)"/>
+  <polygon points="662.15,152.5 710,180 710,235 662.15,207.5" fill="url(#cLeft)"/>
+  <polygon points="710,180 757.85,152.5 757.85,207.5 710,235" fill="url(#cRight)"/>
+  <text x="710" y="158" text-anchor="middle" font-size="12" font-weight="bold" fill="#012b2e">WEB</text>
+  <text x="710" y="260" text-anchor="middle" font-size="11" fill="#8be89e">Lv.6 Front</text>
+
+  <!-- ================= CUBE 7 : GIT (green) cx=830 cy=140 ================= -->
+  <ellipse cx="830" cy="170" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="830,85 877.85,112.5 830,140 782.15,112.5" fill="url(#gTop)"/>
+  <polygon points="782.15,112.5 830,140 830,195 782.15,167.5" fill="url(#gLeft)"/>
+  <polygon points="830,140 877.85,112.5 877.85,167.5 830,195" fill="url(#gRight)"/>
+  <text x="830" y="118" text-anchor="middle" font-size="12" font-weight="bold" fill="#052b0d">GIT</text>
+  <text x="830" y="220" text-anchor="middle" font-size="11" fill="#8be89e">Lv.7 Ship</text>
+
+  <!-- ================= CUBE 8 : FLUTTER (cyan) cx=950 cy=100 ================= -->
+  <ellipse cx="950" cy="130" rx="42" ry="10" fill="#000" opacity="0.35"/>
+  <polygon points="950,45 997.85,72.5 950,100 902.15,72.5" fill="url(#cTop)"/>
+  <polygon points="902.15,72.5 950,100 950,155 902.15,127.5" fill="url(#cLeft)"/>
+  <polygon points="950,100 997.85,72.5 997.85,127.5 950,155" fill="url(#cRight)"/>
+  <text x="950" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#012b2e">FLTR</text>
+  <text x="950" y="180" text-anchor="middle" font-size="11" fill="#8be89e">Lv.8 Ship UI</text>
+
+</svg>
+
+    permissions:
+      contents: write
+    steps:
+      # ============ MAIN STATS CARD ============
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          config_timezone: Asia/Kolkata
+          # --- green hacker terminal palette ---
+          extras_css: |
+            :root, body { background-color: #0d1117 !important; }
+            h2, h3, .field, .repository-name, .lang-name { color: #00FF41 !important; }
+            .field-value, .repository-description { color: #8be89e !important; }
+            a { color: #00FF41 !important; }
+            svg { border-radius: 12px; }
+
+      # ============ ISOMETRIC 3D COMMIT CALENDAR ============
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          extras_css: |
+            :root, body { background-color: #0d1117 !important; }
