@@ -27,7 +27,6 @@
 
 <p align="center">
   <a href="mailto:sanjayvikas.r2024aids@sece.ac.in"><img src="https://img.shields.io/badge/EMAIL-sanjayvikas.r2024aids%40sece.ac.in-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <a href="tel:9361006457"><img src="https://img.shields.io/badge/CALL-9361006457-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00FF41" /></a>
 </p>
 
 <p align="center">
@@ -75,6 +74,12 @@ Compiling:   knowledge.exe [no errors found]
 
 <p align="center">
   <img src="techstack.svg" width="100%" alt="3D Tech Stack"/>
+</p>
+
+<h3 align="center">&gt; ./stack.sh --split=frontend,backend --mode=float</h3>
+
+<p align="center">
+  <img src="floating_stack.svg" width="100%" alt="Floating 3D Frontend and Backend Icons"/>
 </p>
 
 <p align="center">
@@ -207,7 +212,7 @@ cleared the preliminary firewall of the competition.
 <div align="center">
 
 ```
-> Reach me at sanjayvikas.r2024aids@sece.ac.in or 9361006457
+> Reach me at sanjayvikas.r2024aids@sece.ac.in
 > Session terminated. Have a nice day, user. [EOF]
 ```
 
